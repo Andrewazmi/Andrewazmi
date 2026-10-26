@@ -27,12 +27,9 @@ Small team, AI-native, shipping every day with
 
 ## The last 12 months
 
-11,000+ contributions. Most of them land in private repos, so here is the shape of it:
+Most of my work ships from private repos, so this is the shape of it:
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" width="100%">
-</picture>
+<img src="./assets/contributions-3d.svg" alt="3D contribution graph" width="100%">
 
 ## Find me
 
